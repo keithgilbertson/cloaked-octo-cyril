@@ -12,3 +12,16 @@ Supplementary Figure 1: A monkey.
   \
    \
 
+Supplementary Figure 2: Unhappy Monkey
+
+ __
+|. |
+/--\
+ |
+ | /
+ |        
+ --------\
+ |        \
+ |
+  \
+   \
